@@ -1,6 +1,19 @@
-# flutter_todo
+# Auth of a Todo App
 
-A new Flutter project.
+This is a frontend of a authentication page which can be used in every app. This is made by flutter(Dart).
+
+
+## Features
+
+- Login Page
+- Signup Page
+- Home Page
+
+
+## Installation
+
+This app is still under development. You can run this app by Android Studio Emulator. 
+
 
 ## Getting Started
 
